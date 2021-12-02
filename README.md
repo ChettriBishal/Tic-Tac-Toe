@@ -1,2 +1,9 @@
 # Tic-Tac-Toe
-Tic Tac Toe game based on user inputs
+
+A simple game based on user inputs. I did this only as a part of learning how to apply python to something common. 
+
+
+## Screenshots
+
+![Screenshot](tictactoe.JPG)
+
